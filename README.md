@@ -1,10 +1,10 @@
-# 🧠 AI-Powered Health Monitoring System
+#  AI-Powered Health Monitoring System
 
 This project is an AI-driven health dashboard that monitors real-time data from wearable devices (e.g., smartwatches or fitness trackers). It detects health risks and gives personalized recommendations based on heart rate, oxygen levels, and activity levels.
 
 ---
 
-## 🔧 Features
+##  Features
 
 - ✅ Real-time health dashboard (Flask)
 - ✅ AI-based anomaly detection (Random Forest)
@@ -14,7 +14,7 @@ This project is an AI-driven health dashboard that monitors real-time data from 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 afya_monitor/
@@ -62,7 +62,7 @@ python api.py
 
 ---
 
-## 🚑 Model Details
+##  Model Details
 
 - **Algorithm**: Random Forest Classifier
 - **Features Used**: Heart rate, blood oxygen, activity level
@@ -72,7 +72,7 @@ python api.py
 
 ---
 
-## 🔐 Data Privacy
+##  Data Privacy
 
 This project follows privacy standards such as:
 - **HIPAA** (Health Insurance Portability and Accountability Act)
@@ -82,13 +82,13 @@ Data is never shared externally and is stored temporarily for model inference on
 
 ---
 
-## 📬 Feedback
+## Feedback
 
 Users can submit feedback through the dashboard. Submissions are stored in `feedback_log.txt`.
 
 ---
 
-## ✨ Future Improvements
+## Future Improvements
 
 - 📱 Mobile version using Flutter or React Native
 - 🔄 Real-time API integration (e.g., Fitbit, Garmin)
@@ -98,5 +98,4 @@ Users can submit feedback through the dashboard. Submissions are stored in `feed
 ---
 
 ## 👤 Maintainer
-
-Built with ❤️ by **Fanuel Kemei** and contributors.
+**Fanuel Kemei** and contributors.
